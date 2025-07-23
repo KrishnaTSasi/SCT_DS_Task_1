@@ -1,4 +1,4 @@
-# SCT_TrackCode_TaskNumber
+# SCT_TrackCode_Task 1
 Task-1:- India Population Analysis
 
 📊 India Population Growth Analysis (1960–2022)
